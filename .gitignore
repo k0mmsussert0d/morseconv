@@ -1,4 +1,5 @@
-.kdev4
 CMakeLists.txt
-morseconv.kdev4
-.vscode/tasks.json
+.vscode/
+
+# Test build output
+morseconv
